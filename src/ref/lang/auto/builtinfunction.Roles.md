@@ -13,7 +13,7 @@
 <tbody>
 <tr>
 <td><a href="#CheckRole">CheckRole</a>(&#8203;RoleId, UserId)</td>
-<td>Returns true when the given user has the specific role.</td>
+<td>Returns true when the given user has the specific role and user is active.</td>
 </tr>
 <tr>
 <td><a href="#GetUserId">GetUserId</a>()</td>
